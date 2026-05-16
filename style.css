@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background-color: bisque;
+  min-height: 99vh;
+  border: 5px solid black;
+  margin: 2px;
+  padding: 2px;
+  display: flex;
+
+
+
+  /*------- Task 1 -----------*/
+
+  /* justify-content: center;
+  align-items: center;
+ */
+
+
+
+  /*------- Task 2 -----------*/
+
+  /* flex-direction: column;
+  justify-content: center;
+  align-items: center; */
+
+
+
+  /*------- Task 3 -----------*/
+
+  /* align-items: flex-end;
+justify-content: flex-end; */
+
+
+
+
+  /*------- Task 4 -----------*/
+
+  /* align-items: center;
+justify-content: space-around; */
+
+
+
+  /*------- Task 5 -----------*/
+
+  /* align-items: flex-end;
+ justify-content: space-between; */
+
+
+
+  /*------- Task 6-----------*/
+
+  /* justify-content: flex-end; */
+
+
+
+  /*------- Task 7-----------*/
+
+  justify-content: space-around;
+}
+
+.box {
+  height: 150px;
+  width: 150px;
+  border: 2px solid brown;
+  margin: 2px;
+  padding: 2px;
+
+  color: white;
+  font-size: 25px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#box1 {
+  background-color: aqua;
+  color: black;
+}
+#box2 {
+  background-color: blue;
+}
+#box3 {
+  background-color: orange;
+}
+#box4 {
+  background-color: brown;
+}
