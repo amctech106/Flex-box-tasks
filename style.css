@@ -23,9 +23,9 @@
 
   /*------- Task 2 -----------*/
 
-  /* flex-direction: column;
+   /* flex-direction: column-reverse;
   justify-content: center;
-  align-items: center; */
+  align-items: center;  */
 
 
 
@@ -38,9 +38,9 @@ justify-content: flex-end; */
 
 
   /*------- Task 4 -----------*/
-
-  /* align-items: center;
-justify-content: space-around; */
+  /* flex-direction: row-reverse;
+   align-items: center;
+justify-content: space-around;  */
 
 
 
@@ -53,13 +53,15 @@ justify-content: space-around; */
 
   /*------- Task 6-----------*/
 
-  /* justify-content: flex-end; */
+   /* justify-content: flex-start;
+   flex-direction: row-reverse; */
 
 
 
   /*------- Task 7-----------*/
 
-  justify-content: space-around;
+   justify-content: space-around; 
+   flex-direction: row-reverse;
 }
 
 .box {
