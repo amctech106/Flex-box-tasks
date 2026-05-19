@@ -11,57 +11,42 @@
   padding: 2px;
   display: flex;
 
-
-
   /*------- Task 1 -----------*/
 
   /* justify-content: center;
   align-items: center;
  */
 
-
-
   /*------- Task 2 -----------*/
 
-   /* flex-direction: column-reverse;
+  /* flex-direction: column-reverse;
   justify-content: center;
   align-items: center;  */
-
-
 
   /*------- Task 3 -----------*/
 
   /* align-items: flex-end;
 justify-content: flex-end; */
 
-
-
-
   /*------- Task 4 -----------*/
   /* flex-direction: row-reverse;
    align-items: center;
 justify-content: space-around;  */
-
-
 
   /*------- Task 5 -----------*/
 
   /* align-items: flex-end;
  justify-content: space-between; */
 
-
-
   /*------- Task 6-----------*/
 
-   /* justify-content: flex-start;
+  /* justify-content: flex-start;
    flex-direction: row-reverse; */
-
-
 
   /*------- Task 7-----------*/
 
-   justify-content: space-around; 
-   flex-direction: row-reverse;
+  justify-content: space-around;
+  flex-direction: row-reverse;
 }
 
 .box {
